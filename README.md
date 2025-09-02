@@ -1,19 +1,21 @@
 # 📊 Data Science Portfolio
 
 Welcome to my Data Science portfolio!  
-This repository is a **showcase of my journey in the domain of Data Science**, featuring projects implemented in **Python** and **C++**.  
+This repository is a **showcase of my journey in Data Science**, featuring projects implemented in **Python** and **C++**.  
 
-Currently, it explores the foundational algorithms in suprervised machine learning such as **Linear Regression** and **Logistic Regression**.
+Currently, it focuses on **fundamentals of machine learning**, starting with **supervised learning techniques** such as regression models.
 
 ---
 
-## 🚀 Projects
+## 📂 Project Structure
 
-- 📈 [Linear Regression](projects/linear-regression/README.md)  
-  Implemented Linear Regression in Python (Jupyter Notebook) with an additional compiled C++ version. Includes data preprocessing, model building, and evaluation.  
+- **Fundamentals**
+  - **Supervised Learning**
+    - 📈 [Linear Regression](fundamentals/supervised/linear-regression/README.md)  
+      Implemented in Python (Jupyter Notebook) with an additional compiled C++ version. Covers data preprocessing, model building, and evaluation.  
 
-- 🔮 [Logistic Regression](projects/logistic-regression/README.md)  
-  Built a Logistic Regression model for binary classification tasks, covering data cleaning, model training, and performance evaluation.  
+    - 🔮 [Logistic Regression](fundamentals/supervised/logistic-regression/README.md)  
+      Built a Logistic Regression model for binary classification, including data cleaning, model training, and performance evaluation.  
 
 ---
 
@@ -27,9 +29,9 @@ Currently, it explores the foundational algorithms in suprervised machine learni
 ## 📈 Goals
 This portfolio serves to:
 1. Document my growth as a data scientist  
-2. Demonstrate hands-on projects in machine learning  
-3. Build a foundation for more advanced projects in the future  
+2. Demonstrate hands-on projects in machine learning fundamentals  
+3. Build a strong foundation for more advanced projects in the future  
 
 ---
 
-
+👨‍💻 Created by [Your Name](https://github.com/YOUR_USERNAME)
