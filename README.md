@@ -11,10 +11,10 @@ Currently, it focuses on **fundamentals of machine learning**, starting with **s
 
 - **Fundamentals**
   - **Supervised Learning**
-    - 📈 [Linear Regression](fundamentals/supervised/linear-regression/README.md)  
+    - 📈 [Linear Regression](Fundamentals/Supervised/Linear Regression)  
       Implemented in Python (Jupyter Notebook) with an additional compiled C++ version. Covers data preprocessing, model building, and evaluation.  
 
-    - 🔮 [Logistic Regression](fundamentals/supervised/logistic-regression/README.md)  
+    - 🔮 [Logistic Regression](Fundamentals/Supervised/Logistic Regression)  
       Built a Logistic Regression model for binary classification, including data cleaning, model training, and performance evaluation.  
 
 ---
