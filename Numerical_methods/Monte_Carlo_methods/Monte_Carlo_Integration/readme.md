@@ -17,7 +17,7 @@ The implementation estimates the integral of the function $f(x,y,z)=e^{-x^{2}-y^
 
 ## Validation and Results
 
-The Monte Carlo estimate ($\hat{I}_{MC}$) is validated against a deterministic **Riemann sum** ($I_{Riemann}$) that serves as a control value.
+The Monte Carlo estimate is validated against a deterministic **Riemann sum** that serves as a control value.
 
 - **Sample Size:** The simulation uses $500,000$ sample points, while the control Riemann sum employs $1,000,000$ evaluation points.
 - **Efficiency:** The Monte Carlo estimator achieves reliable results with approximately half the number of function evaluations required by the deterministic method.
