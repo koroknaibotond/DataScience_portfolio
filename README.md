@@ -1,37 +1,37 @@
-# 📊 Data Science Portfolio
+# Data Science Portfolio
 
-Welcome to my Data Science portfolio!  
-This repository is a **showcase of my journey in Data Science**, featuring projects implemented in **Python** and **C++**.  
-
-Currently, it focuses on **fundamentals of machine learning**, starting with **supervised learning techniques** such as regression models.
+This repository documents a transition from theoretical foundations to technical implementation in Data Science. The focus is on building from the ground up, balancing high-level Python prototyping with low-level C++ logic to ensure a deep understanding of algorithmic mechanics.
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
-- **Fundamentals**
-  - **Supervised Learning**
-    - 📈 [Linear Regression](Fundamentals/Supervised/Linear Regression)  
-      Implemented in Python (Jupyter Notebook) with an additional compiled C++ version. Covers data preprocessing, model building, and evaluation.  
+### Fundamentals
 
-    - 🔮 [Logistic Regression](Fundamentals/Supervised/Logistic Regression)  
-      Built a Logistic Regression model for binary classification, including data cleaning, model training, and performance evaluation.  
+#### Supervised Learning
+* **Linear Regression:** Implementation of continuous variable prediction using Ordinary Least Squares and gradient descent. Includes a C++ version to demonstrate mathematical operations without library abstraction.
+* **Logistic Regression:** Binary classification focusing on sigmoid activation, log-loss optimization, and decision boundary interpretation.
+* **Decision Trees:** Exploration of non-linear classification logic, entropy-based splitting, and tree-based data structures.
 
----
+#### Numerical Methods
+* **Monte Carlo Integration:** A C++ implementation using repeated random sampling to solve high-dimensional integrals. This project demonstrates how the Law of Large Numbers provides a scalable alternative to grid-based integration for complex domains.
 
-## 🛠️ Tech Stack
-- **Programming:** Python, C++  
-- **Libraries & Tools:** Pandas, NumPy, Matplotlib, Scikit-learn  
-- **Focus Areas:** Data Preprocessing, Regression Models, Machine Learning Foundations  
+
 
 ---
 
-## 📈 Goals
-This portfolio serves to:
-1. Document my growth as a data scientist  
-2. Demonstrate hands-on projects in machine learning fundamentals  
-3. Build a strong foundation for more advanced projects in the future  
+## Tech Stack
+* **Programming Languages:** Python, C++
+* **Libraries:** Pandas, NumPy, Matplotlib, Scikit-learn
+* **Focus Areas:** Numerical Integration, Statistical Simulation, Model Building, Data Preprocessing
 
 ---
 
-👨‍💻 Created by [Your Name](https://github.com/YOUR_USERNAME)
+## Goals
+1. **Algorithmic Transparency:** Moving beyond library calls by implementing core logic in compiled C++ to understand memory management and computational efficiency.
+2. **Scientific Computing:** Applying numerical methods to handle uncertainty and solve problems where analytical solutions are difficult to obtain.
+3. **Foundational Mastery:** Building a robust codebase that serves as a bridge between pure mathematics and applied machine learning.
+
+---
+
+Created by [Botond Koroknai](https://github.com/koroknaibotond)
