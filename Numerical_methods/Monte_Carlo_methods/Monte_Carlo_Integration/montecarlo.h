@@ -2,7 +2,7 @@
 #include <random>
 #include <cmath>
 
-// Monte Carlo integrátor 3D-s függvényekhez
+// Monte Carlo integration for 3D functions
 template <typename Func, typename Dom>
 double MonteCarlo(Func integrand, Dom domain, double xmin, double xmax, double ymin, double ymax, double zmin, double zmax, int samples = 1e06)
 {
