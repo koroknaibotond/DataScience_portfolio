@@ -16,7 +16,7 @@ This repository documents a transition from theoretical foundations to technical
 #### Numerical Methods
 * **Monte Carlo Integration:** A C++ implementation using repeated random sampling to solve high-dimensional integrals. This project demonstrates how the Law of Large Numbers provides a scalable alternative to grid-based integration for complex domains.
 
-
+* **Ising Model Simulation:** A Python-based study using the **Metropolis-Hastings algorithm** to simulate 1D and 2D spin systems. The project focuses on the numerical emergence of criticality, benchmarking results against exact **Transfer Matrix** (1D) and **Onsager** (2D) solutions. Key features include **$\mathcal{O}(1)$ local updates**, Periodic Boundary Conditions, and a critical analysis of **finite-size scaling** artifacts.
 
 ---
 
